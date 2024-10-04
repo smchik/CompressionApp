@@ -1,12 +1,11 @@
 <resources>
     <string name="app_name">CompressionApp</string>
-    <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
     <string name="title_open_image">Open Image</string>
 
     <string name="action_next">Next</string>
+
+    <string name="label_preview_info">Quality: %d%%, Estimated Size: %s (%d%% of the original size)</string>
+    <string name="label_original_image_size">Actual Image, Size: %s</string>
+    <string name="label_compressed_image_size">Compressed Image, Size: %s</string>
+    <string name="message_open_image">Click on the button to open an image</string>
 </resources>
